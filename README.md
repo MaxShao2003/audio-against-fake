@@ -1,4 +1,4 @@
-# LLMCipherChat
+# Project Website Test
 
 This is the repository that contains project website source code for the [llmcipherchat website](https://llmcipherchat.github.io).
 
