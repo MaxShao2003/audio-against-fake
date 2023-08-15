@@ -6,7 +6,14 @@ You can refer our work by [CipherChat](https://github.com/RobustNLP/CipherChat)
 If you find CipherChat useful for your work please cite:
 
 ```
-TBC
+@misc{yuan2023cipherchat,
+      title={GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher},
+      author={Youliang Yuan and Wenxiang Jiao and Wenxuan Wang and Jen-tse Huang and Pinjia He and Shuming Shi and Zhaopeng Tu},
+      year={2023},
+      eprint={2308.06463},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 # Website License
